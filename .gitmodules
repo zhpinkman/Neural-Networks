@@ -1,3 +1,6 @@
 [submodule "neural-network"]
 	path = neural-network
 	url = https://github.com/zhpinkman/neural-network
+[submodule "pytorch-tutorials"]
+	path = pytorch-tutorials
+	url = git@github.com:zhpinkman/pytorch-tutorials.git
