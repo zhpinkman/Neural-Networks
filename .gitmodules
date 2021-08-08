@@ -10,3 +10,6 @@
 [submodule "backward-elimination"]
 	path = backward-elimination
 	url = git@github.com:zhpinkman/backward-elimination.git
+[submodule "object-detection-sonar"]
+	path = object-detection-sonar
+	url = git@github.com:zhpinkman/object-detection-sonar.git
