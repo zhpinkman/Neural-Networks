@@ -19,3 +19,6 @@
 [submodule "object-detection-segmentation"]
 	path = object-detection-segmentation
 	url = https://github.com/zhpinkman/object-detection-segmentation.git
+[submodule "cycle-gan"]
+	path = cycle-gan
+	url = https://github.com/zhpinkman/cycle-gan
