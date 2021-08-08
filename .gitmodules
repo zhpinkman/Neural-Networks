@@ -22,3 +22,6 @@
 [submodule "cycle-gan"]
 	path = cycle-gan
 	url = https://github.com/zhpinkman/cycle-gan
+[submodule "CNN"]
+	path = CNN
+	url = https://github.com/zhpinkman/CNN
