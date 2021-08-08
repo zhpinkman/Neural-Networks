@@ -16,3 +16,6 @@
 [submodule "perceptron-adaline"]
 	path = perceptron-adaline
 	url = https://github.com/zhpinkman/perceptron-adaline
+[submodule "object-detection-segmentation"]
+	path = object-detection-segmentation
+	url = https://github.com/zhpinkman/object-detection-segmentation.git
