@@ -7,3 +7,6 @@
 [submodule "house-pricing-nn"]
 	path = house-pricing-nn
 	url = git@github.com:zhpinkman/house-pricing-nn.git
+[submodule "backward-elimination"]
+	path = backward-elimination
+	url = git@github.com:zhpinkman/backward-elimination.git
