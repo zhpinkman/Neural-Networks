@@ -4,3 +4,6 @@
 [submodule "pytorch-tutorials"]
 	path = pytorch-tutorials
 	url = git@github.com:zhpinkman/pytorch-tutorials.git
+[submodule "house-pricing-nn"]
+	path = house-pricing-nn
+	url = git@github.com:zhpinkman/house-pricing-nn.git
