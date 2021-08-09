@@ -31,3 +31,6 @@
 [submodule "unsupervised-learning"]
 	path = unsupervised-learning
 	url = git@github.com:zhpinkman/unsupervised-learning.git
+[submodule "Variational-Auto-Encoder"]
+	path = Variational-Auto-Encoder
+	url = git@github.com:zhpinkman/Variational-Auto-Encoder.git
