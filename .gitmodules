@@ -28,3 +28,6 @@
 [submodule "memory-neural-networks"]
 	path = memory-neural-networks
 	url = git@github.com:zhpinkman/memory-neural-networks.git
+[submodule "unsupervised-learning"]
+	path = unsupervised-learning
+	url = git@github.com:zhpinkman/unsupervised-learning.git
