@@ -34,3 +34,6 @@
 [submodule "Variational-Auto-Encoder"]
 	path = Variational-Auto-Encoder
 	url = git@github.com:zhpinkman/Variational-Auto-Encoder.git
+[submodule "bitcoin-price-prediction"]
+	path = bitcoin-price-prediction
+	url = https://github.com/zhpinkman/bitcoin-price-prediction
