@@ -37,3 +37,6 @@
 [submodule "bitcoin-price-prediction"]
 	path = bitcoin-price-prediction
 	url = https://github.com/zhpinkman/bitcoin-price-prediction
+[submodule "BERT-sentiment-classification"]
+	path = BERT-sentiment-classification
+	url = git@github.com:zhpinkman/BERT-sentiment-classification.git
